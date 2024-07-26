@@ -5,3 +5,5 @@
 Para instalar react ejecutar lo siguiente en la consola:
 
 ``npm install react``
+
+sistema de registro 2
